@@ -1,0 +1,17 @@
+div.container {
+width: 100%;
+}
+div.Admin_Section {
+float: left;
+width: 30%;
+}
+div.Posts_Section{
+float: left;
+width: 70%
+}
+div.Admin_PHP_Admin_Section {
+width: 50%;
+padding: 2px;
+border: 2px solid grey;
+margin: 2px;
+}
